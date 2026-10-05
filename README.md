@@ -11,7 +11,7 @@
   <a href="https://github.com/FLAIRUK/laravel-booking-com/actions/workflows/tests.yml" target="_blank"><img src="https://img.shields.io/badge/Lint-%E2%9C%93-2EA043?style=flat&logo=githubactions&logoColor=white" alt="Lint"></a>&nbsp;
   <a href="https://github.com/FLAIRUK/laravel-booking-com/actions/workflows/tests.yml" target="_blank"><img src="https://img.shields.io/badge/Tests-%E2%9C%93-2EA043?style=flat&logo=githubactions&logoColor=white" alt="Tests"></a>&nbsp;
   <a href="https://packagist.org/packages/flairuk/laravel-booking-com" target="_blank"><img src="https://img.shields.io/packagist/dt/flairuk/laravel-booking-com?style=flat&logo=packagist&logoColor=white&label=Downloads&color=F28D1A" alt="Downloads on Packagist"></a>&nbsp;
-  <a href="https://github.com/FLAIRUK/laravel-booking-com/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/FLAIRUK/laravel-booking-com?style=flat&label=License&color=3DA639" alt="MIT licence"></a>&nbsp;
+  <a href="https://github.com/FLAIRUK/laravel-booking-com/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/FLAIRUK/laravel-booking-com?style=flat&label=License&color=3DA639" alt="MIT licence"></a>&nbsp;
   <a href="https://developers.booking.com/demand/docs" target="_blank"><img src="https://img.shields.io/badge/Demand%20API-v3.2-E11D48?style=flat" alt="Demand API v3.2"></a>&nbsp;
   <br>&nbsp;
 </h2>
